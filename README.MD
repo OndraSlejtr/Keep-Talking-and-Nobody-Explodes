@@ -5,7 +5,7 @@ game. I suggest you try it out!
 
 Controls:
 
- * User manual TBA
+ * You can check out Documantation_CZE.pdf file for directions in czech, but general directions should be simple to follow.
 
 This project was made as a part of my university module BI-ARD (Interactive application for Arduino) in 2016, Czech Technical University in Prague
 (Informational Technology faculty).
